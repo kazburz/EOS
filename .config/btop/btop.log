@@ -1,0 +1,4 @@
+
+2025/04/02 (23:38:36) | ===> btop++ v.1.4.0
+2025/04/02 (23:38:36) | WARNING: No good candidate for cpu sensor found, using random from all found sensors.
+2025/04/02 (23:38:36) | WARNING: Intel GPU: Failed to initialize PMU
